@@ -1,0 +1,32 @@
+{
+  "name": "uppy-file-uploader",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@uppy/core": "^2.3.2",
+    "@uppy/dashboard": "^2.4.1",
+    "@uppy/file-input": "^2.1.1",
+    "@uppy/google-drive": "^2.1.1",
+    "@uppy/instagram": "^2.1.1",
+    "@uppy/react": "^2.2.2",
+    "@uppy/tus": "^2.4.2",
+    "@uppy/url": "^2.2.0",
+    "@uppy/webcam": "^2.2.1",
+    "@uppy/xhr-upload": "^2.1.2",
+    "framer-motion": "^7.0.0",
+    "next": "12.2.4",
+    "react": "18.2.0",
+    "react-calendly": "^4.0.1",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.4"
+  }
+}
