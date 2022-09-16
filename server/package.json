@@ -7,7 +7,7 @@
         "dev": "nodemon index.js"
     },
     "dependencies": {
-        "@uppy/companion": "^3.7.1",
+        "@uppy/companion": "2.12.3",
         "cors": "^2.8.5",
         "express": "^4.18.1",
         "express-session": "^1.17.3",
